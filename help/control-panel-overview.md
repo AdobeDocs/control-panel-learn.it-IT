@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 9aab3744b4bee03f78b4d301edc98efd13922647
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 84%
+source-wordcount: '290'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 84%
 Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 
 ## Novità
+
+* **[Pannello di controllo Campaign per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)**
+
+   *Scopri come abilitare Pannelli di controllo Campaign per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo Campaign e sbloccare le funzioni chiave.*
 
 * **[Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)**
 
