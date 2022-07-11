@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
 
 * **[Pannello di controllo Campaign per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)**
 
-   *Scopri come abilitare Pannelli di controllo Campaign per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo Campaign e sbloccare le funzioni chiave.*
+   *Scopri come abilitare il Pannello di controllo Campaign per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo Campaign e usufruire delle funzioni chiave.*
 
 * **[Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)**
 
-   *Scopri come monitorare l’utilizzo dello storage temporaneo dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
+   *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
 
-* **[Monitoraggio delle uscite e della latenza](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+* **[Monitorare velocità effettive e latenza](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
+   *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
 
 Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=it) per ulteriori informazioni sulle ultime versioni dei prodotti.
 
