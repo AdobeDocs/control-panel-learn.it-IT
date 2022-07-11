@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 81%
 + [Pannello di controllo Campaign per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)
 + Gestione SFTP {#sftp-management}
    + [Monitorare la capacità del server](/help/sftp-management/monitor-server-capacity.md)
-   + [Inserire nell&#39;elenco Consentiti intervalli IP](/help/sftp-management/allowlist-ip-range.md)
+   + [Aggiungere intervalli IP all’elenco Consentiti](/help/sftp-management/allowlist-ip-range.md)
    + [Generare una chiave SSH](/help/sftp-management/generate-ssh-key.md)
    + [Connettersi a un server SFTP](/help/sftp-management/connect-to-sftp-server.md)
 + Sottodomini e certificati {#subdomains-and-certificates}
    + [Delega di sottodomini completa](/help/subdomains-and-certificates/subdomain-delegation.md)
    + [Delega dei sottodomini tramite CNAME](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
-   + [Aggiungi certificati SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
+   + [Aggiungere certificati SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Gestione dei record TXT di Google](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Impostazioni delle istanze {#instance-settings}
-   + [Inserire nell&#39;elenco Consentiti indirizzi IP](/help/instance-settings/allowlist-ip-adresses.md)
+   + [Aggiungere indirizzi IP all’elenco Consentiti](/help/instance-settings/allowlist-ip-adresses.md)
    + [Aggiungi autorizzazioni URL](/help/instance-settings/add-url-permissions.md)
    + Gestione delle chiavi GPG {#gpg-key-management}
       + [Gestione delle chiavi GPG: panoramica](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + Monitoraggio delle prestazioni {#performance-monitoring}
    + [Monitorare i database](/help/performance-monitoring/monitor-databases.md)
    + [Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)
-   + [Monitoraggio delle uscite e della latenza](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Pannello di controllo Campaign di risoluzione dei problemi](/help/trouble-shooting.md)
+   + [Monitorare velocità effettive e latenza](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [Risoluzione dei problemi del Pannello di controllo Campaign](/help/trouble-shooting.md)
