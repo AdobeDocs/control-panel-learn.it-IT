@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -72,8 +72,8 @@ Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/contro
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connessione a un server SFTP</strong>
-    </a>
+    <strong>Connessione a un server SFTP</strong>
+    </a>
     </div>
     <p>
     <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo Campaign. </em>
