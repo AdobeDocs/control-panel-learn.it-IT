@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 86%
 
 ---
 
@@ -37,4 +37,4 @@ Il video seguente illustra come delegare i sottodomini.
 
 *Subdomain Delegation (05:07 min)*
 
-Per ulteriori informazioni sul rinnovo del certificato SSL di un sottodominio, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html).
+Per ulteriori informazioni sul rinnovo del certificato SSL di un sottodominio, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=it).
