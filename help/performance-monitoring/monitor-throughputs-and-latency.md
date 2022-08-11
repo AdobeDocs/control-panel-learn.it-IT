@@ -1,6 +1,6 @@
 ---
-title: Monitoraggio delle uscite e della latenza
-description: Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.
+title: Monitorare velocità effettive e latenza
+description: Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali della tua istanza di Campaign.
 feature: Control Panel
 kt: 10526
 thumbnail: 344310.jpg
@@ -12,21 +12,21 @@ role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Monitoraggio delle uscite e della latenza
+# Monitorare velocità effettive e latenza
 
-Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.
+Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali della tua istanza di Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344310/?quality=12)
 
 ## Risorse aggiuntive
 
-* [Documentazione sui Pannelli di controllo Campaign e monitoraggio della latenza](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=en#)
-* [Dashboard di consegna OOTB](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=en)
-* [Rapporti di messaggistica transazionale di accesso OOTB (solo Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=en)
-* [Best practice per la consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=en)
+* [Documentazione del Pannello di controllo Campaign sul monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=it#)
+* [Dashboard di consegna preconfigurate](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=it)
+* [Rapporti preconfigurati sulla messaggistica transazionale per gli accessi (solo Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=it)
+* [Best practice per la consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=it)
