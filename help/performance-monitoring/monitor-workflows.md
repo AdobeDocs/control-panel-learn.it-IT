@@ -12,16 +12,16 @@ role: Admin
 level: Experienced
 exl-id: 5687281e-966a-4643-8bd3-1f930b2e52a4
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 # Monitorare i flussi di lavoro per ottimizzare l’utilizzo delle risorse
 
-Scopri come monitorare l’utilizzo dello storage temporaneo dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.
+Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344309/?quality=12)
 
-Per ulteriori informazioni, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=en) e [best practice per i flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en).
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=it) e le [best practice per i flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=it).
