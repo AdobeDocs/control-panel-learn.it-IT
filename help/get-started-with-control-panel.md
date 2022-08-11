@@ -1,6 +1,6 @@
 ---
 title: Introduzione al Pannello di controllo Campaign
-description: Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per poterci lavorare.
+description: Scopri come accedere al Pannello di controllo Campaign e quali sono i suoi prerequisiti.
 feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -12,20 +12,20 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # Introduzione a [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
-> Per Campaign v7, si applicano restrizioni di distribuzione. [Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+> Per Campaign v7, si applicano restrizioni di distribuzione. [Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=it#v7-restrictions)
 
-[!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire [!DNL SFTP] archiviazione per istanza, gestione [!DNL GPG] le chiavi o [!UICONTROL subdomains] e [!UICONTROL certificates].
+[!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come gestire l’archiviazione [!DNL SFTP] per le singole istanze, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Questo articolo spiega come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per lavorarci.
+Questo articolo spiega come accedere al Pannello di controllo Campaign e quali sono i suoi prerequisiti.
 
 ## Accesso al [!UICONTROL Control Panel]
 
@@ -57,6 +57,6 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-[Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel) informazioni sulla gestione delle autorizzazioni.
+[Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel) sulla gestione delle autorizzazioni.
 
-Consulta la sezione [Centro assistenza Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it) per ulteriori risorse.
+Per ulteriori risorse, visita il [Centro assistenza per il Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it).
