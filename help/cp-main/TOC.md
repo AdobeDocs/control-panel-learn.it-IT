@@ -25,7 +25,7 @@ ht-degree: 100%
    + [Generare una chiave SSH](/help/sftp-management/generate-ssh-key.md)
    + [Connettersi a un server SFTP](/help/sftp-management/connect-to-sftp-server.md)
 + Sottodomini e certificati {#subdomains-and-certificates}
-   + [Delega di sottodomini completa](/help/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delega completa di sottodomini](/help/subdomains-and-certificates/subdomain-delegation.md)
    + [Delega dei sottodomini tramite CNAME](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
    + [Aggiungere certificati SSL](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Gestione dei record TXT di Google](/help/subdomains-and-certificates/google-txt-record-management.md)
