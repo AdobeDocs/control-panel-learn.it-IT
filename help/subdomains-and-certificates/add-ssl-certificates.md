@@ -13,7 +13,7 @@ exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 38%
+ht-degree: 62%
 
 ---
 
@@ -46,11 +46,11 @@ Il video seguente descrive come generare una richiesta di firma del certificato 
 
 >[!NOTE]
 >
->Sono stati apportati diversi miglioramenti al processo di generazione della RSI:
+>Sono stati apportati diversi miglioramenti al processo di generazione della CSR:
 >
 >* Quando generi una CSR, ora puoi selezionare uno dei sottodomini inclusi come Nome comune.
 >* Ora puoi copiare il riepilogo CSR prima di generare la CSR.
->* Una volta generata una CSR, puoi scaricarla nuovamente dai registri di lavoro. Questa funzionalità non si applica ai certificati generati prima di questa versione.
+>* Una volta generata una CSR, puoi scaricarla nuovamente dai registri dei lavori. Questa funzionalità non si applica ai certificati generati prima di questa versione.
 >
 >![Scarica CSR](/help/assets/download-csr.gif)
 >
