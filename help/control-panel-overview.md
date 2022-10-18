@@ -9,8 +9,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -19,6 +19,8 @@ ht-degree: 100%
 # Pannello di controllo Campaign - Panoramica
 
 Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
+
+<div id="whats-new-section">
 
 ## Novità
 
@@ -35,6 +37,17 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
    *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
 
 Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=it) per ulteriori informazioni sulle ultime versioni dei prodotti.
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Scelti dallo staff
 
@@ -81,6 +94,8 @@ Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/contro
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Risorse aggiuntive
 
