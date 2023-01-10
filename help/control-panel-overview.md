@@ -49,7 +49,7 @@ Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/contro
 
 <div id="staff-picks-section">
 
-## Scelte del personale
+## Scelti dallo staff
 
 <table>
 <tr>
