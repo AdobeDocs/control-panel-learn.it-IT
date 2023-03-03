@@ -20,10 +20,10 @@ ht-degree: 43%
 
 # Monitorare i database
 
-Tutte le risorse, i flussi di lavoro e i dati dell’istanza Campaign sono memorizzati nel database. Il database che raggiunge la sua capacità massima può causare problemi con la tua istanza (impossibilità di accedere, inviare e-mail e così via). È quindi essenziale monitorare regolarmente i database delle istanze per garantire prestazioni ottimali.
+Tutte le risorse, i flussi di lavoro e i dati dell’istanza Campaign sono memorizzati nel database. Se il database raggiunge la sua capacità massima, si possono verificare dei problemi nell’istanza (impossibilità di accedere, inviare e-mail e così via). È quindi essenziale monitorare regolarmente i database delle istanze per garantire prestazioni ottimali.
 
-Scopri come monitorare l’utilizzo del database delle istanze con [!DNL Control Panel].
+Scopri come monitorare l’utilizzo dei database delle istanze con [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-Per ulteriori informazioni sul monitoraggio del database, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
+Per ulteriori informazioni sul monitoraggio del database, vedere [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).

@@ -1,14 +1,14 @@
 ---
 user-guide-title: Tutorial sul Pannello di controllo Adobe Campaign
-user-guide-description: Scopri come monitorare le risorse chiave delle istanze di Adobe Campaign ed eseguire attività di amministrazione nel Pannello di controllo Campaign.
-breadcrumb-title: Tutorial sul Pannello di controllo Campaign
+user-guide-description: Scopri come monitorare le risorse chiave delle istanze di Adobe Campaign ed eseguire attività di amministrazione nel Pannello di controllo.
+breadcrumb-title: Tutorial del Pannello di controllo
 index: true
 feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 8844dcdb67c0ec1f27a677edbca88bc4b2d0ee97
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 # Pannello di controllo di Adobe Campaign: tutorial {#tutorials}
 
-+ [Pannello di controllo Campaign](/help/control-panel-overview.md)
-+ [Introduzione al Pannello di controllo Campaign](/help/get-started-with-control-panel.md)
-+ [Pannello di controllo Campaign per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)
++ [Pannello di controllo](/help/control-panel-overview.md)
++ [Introduzione al Pannello di controllo](/help/get-started-with-control-panel.md)
++ [Pannello di controllo per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)
 + Gestione SFTP {#sftp-management}
    + [Monitorare la capacità del server](/help/sftp-management/monitor-server-capacity.md)
    + [Aggiungere intervalli IP all’elenco Consentiti](/help/sftp-management/allowlist-ip-range.md)
@@ -42,4 +42,4 @@ ht-degree: 100%
    + [Monitorare i database](/help/performance-monitoring/monitor-databases.md)
    + [Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)
    + [Monitorare velocità effettive e latenza](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [Risoluzione dei problemi del Pannello di controllo Campaign](/help/trouble-shooting.md)
++ [Risoluzione dei problemi del Pannello di controllo](/help/trouble-shooting.md)

@@ -1,6 +1,6 @@
 ---
-title: Introduzione al Pannello di controllo Campaign
-description: Scopri come accedere al Pannello di controllo Campaign e quali sono i suoi prerequisiti.
+title: Introduzione al Pannello di controllo
+description: Scopri come accedere al Pannello di controllo e quali sono i suoi prerequisiti.
 feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
@@ -25,11 +25,11 @@ ht-degree: 100%
 
 [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come gestire l’archiviazione [!DNL SFTP] per le singole istanze, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Questo articolo spiega come accedere al Pannello di controllo Campaign e quali sono i suoi prerequisiti.
+Questo articolo spiega come accedere al Pannello di controllo e quali sono i suoi prerequisiti.
 
 ## Accesso al [!UICONTROL Control Panel]
 
-Per accedere al Pannello di controllo Campaign, vai alla Home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Per accedere al Pannello di controllo, vai alla Home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -59,4 +59,4 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
 [Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel) sulla gestione delle autorizzazioni.
 
-Per ulteriori risorse, visita il [Centro assistenza per il Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it).
+Per ulteriori risorse, visita il [Centro assistenza per il Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it).

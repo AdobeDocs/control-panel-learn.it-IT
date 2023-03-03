@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con Adobe Campaign, devi impostare un nuovo sottodominio.
 
-Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.
+Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Utilizzare una chiave GPG per crittografare i dati
-description: Scopri come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo Campaign.
+description: Scopri come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo.
 feature: Control Panel
 kt: 5793
 thumbnail: 36399.jpg
@@ -19,7 +19,7 @@ ht-degree: 91%
 
 # Utilizzare una chiave GPG per crittografare i dati
 
-Scopri come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo Campaign
+Scopri come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo
 
 ## Adobe Campaign Standard
 

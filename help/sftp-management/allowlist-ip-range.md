@@ -1,6 +1,6 @@
 ---
 title: Inserire nell'elenco Consentiti un intervallo IP
-description: Scopri come aggiungere un intervallo di indirizzi IP all’inserire nell'elenco Consentiti.
+description: Scopri come aggiungere un intervallo di indirizzi IP al inserisco nell'elenco Consentiti di.
 feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Inserire nell&#39;elenco Consentiti un intervallo IP
 
-Per connettersi a un server tramite un’applicazione client o un’API, è necessario impostare una chiave SSH pubblica e aggiungere all’inserire nell&#39;elenco Consentiti l’indirizzo IP che si connette al server SFTP.
+Per connettersi a un server tramite un’applicazione client o un’API, è necessario impostare una chiave SSH pubblica e aggiungere l’indirizzo IP che si connette al server SFTP al inserisco nell&#39;elenco Consentiti di.
 
-Scopri come aggiungere un intervallo di indirizzi IP all’inserire nell&#39;elenco Consentiti.
+Scopri come aggiungere un intervallo di indirizzi IP al inserisco nell&#39;elenco Consentiti di.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)

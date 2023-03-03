@@ -1,6 +1,6 @@
 ---
-title: Pannello di controllo Campaign per i modelli di hosting ibridi Adobe Campaign
-description: Scopri come abilitare il Pannello di controllo Campaign per i modelli di hosting ibridi, accedere al Pannello di controllo Campaign e usufruire delle funzioni chiave.
+title: Pannello di controllo per i modelli di hosting ibridi Adobe Campaign
+description: Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi, accedere al Pannello di controllo e usufruire delle funzioni chiave.
 feature: Control Panel
 kt: 10483
 thumbnail: 344502.jpg
@@ -10,16 +10,16 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 6b43ca447240fff46a627ddf9091877ccd0245ca
+source-git-commit: 35a8f11609a0634801aa3925eaf14d32858b3c02
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 89%
 
 ---
 
-# Pannello di controllo Campaign per modelli di hosting ibridi
+# Pannello di controllo per modelli di hosting ibridi
 
-Scopri come abilitare il Pannello di controllo Campaign per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo Campaign e usufruire delle funzioni chiave.
+Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 

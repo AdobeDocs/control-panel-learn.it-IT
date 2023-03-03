@@ -1,7 +1,7 @@
 ---
-title: Pannello di controllo Campaign - Panoramica
+title: Pannello di controllo - Panoramica
 description: Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
-landing-page-description: Il Pannello di controllo Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività di amministrazione, ad esempio gestire l’archiviazione SFTP, le chiavi GPG, i sottodomini e i certificati.
+landing-page-description: Il Pannello di controllo consente agli amministratori di monitorare le risorse chiave ed eseguire attività di amministrazione, ad esempio gestire l’archiviazione SFTP, le chiavi GPG, i sottodomini e i certificati.
 feature: Control Panel
 doc-type: feature video
 activity: use
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ---
 
-# Pannello di controllo Campaign - Panoramica
+# Pannello di controllo - Panoramica
 
 Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 
@@ -24,9 +24,9 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
 
 ## Novità
 
-* **[Pannello di controllo Campaign per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)**
+* **[Pannello di controllo per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)**
 
-   *Scopri come abilitare il Pannello di controllo Campaign per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo Campaign e usufruire delle funzioni chiave.*
+   *Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.*
 
 * **[Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)**
 
@@ -89,7 +89,7 @@ Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/contro
     </a>
     </div>
     <p>
-    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo Campaign. </em>
+    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo. </em>
     <p>
   </td>
 </tr>
@@ -99,4 +99,4 @@ Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/contro
 
 ## Risorse aggiuntive
 
-* [Centro assistenza per il Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
+* [Centro assistenza per il Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)

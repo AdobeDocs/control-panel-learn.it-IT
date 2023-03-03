@@ -37,4 +37,4 @@ Il video seguente illustra come delegare i sottodomini.
 
 *Delega dei sottodomini (05:07 min)*
 
-Per ulteriori informazioni sul rinnovo del certificato SSL di un sottodominio, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=it).
+Per ulteriori informazioni sul rinnovo del certificato SSL di un sottodominio, vedi [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=it).

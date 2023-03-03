@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Monitorare la capacità del server
 
-Il Pannello di controllo Campaign consente di monitorare e gestire l’archiviazione SFTP per le singole istanze.
+Il Pannello di controllo consente di monitorare e gestire l’archiviazione SFTP per le singole istanze.
 
 ## Accesso alla gestione dei sottodomini del [!UICONTROL Control Panel]
 
