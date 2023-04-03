@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
-source-wordcount: '100'
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ Al fine di garantire elevate percentuali di posta in arrivo e basse percentuali 
 
 Scopri come aggiungere i record [!UICONTROL Google TXT] per la verifica del sito a tutti i sottodomini utilizzati per inviare e-mail a indirizzi [!DNL GMAIL] tramite il [!UICONTROL Campaign Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&learn=0n)
