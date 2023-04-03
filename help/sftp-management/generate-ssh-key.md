@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 711d473b765dd9c9380f43af5c9bcadf56e9f2b7
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 82%
@@ -19,7 +19,7 @@ ht-degree: 82%
 
 # Generare una chiave SSH
 
-Devi essere in grado di generare una chiave SSH per poterla aggiungere al Pannello di controllo Campaign.
+È necessario essere in grado di generare una chiave SSH per poterla aggiungere al Pannello di controllo Campaign.
 
 ## Accesso alla gestione SFTP del Pannello di controllo
 
@@ -34,4 +34,4 @@ Per accedere alla gestione SFTP nel Pannello di controllo, vai a:
 
 Scopri come generare una chiave SSH utilizzando un terminale e come memorizzare la versione pubblica della chiave nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)

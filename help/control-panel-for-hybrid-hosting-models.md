@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-source-git-commit: 35a8f11609a0634801aa3925eaf14d32858b3c02
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 89%
@@ -21,6 +21,6 @@ ht-degree: 89%
 
 Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12&learn=0n)
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html).
