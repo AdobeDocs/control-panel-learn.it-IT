@@ -54,7 +54,7 @@ Il video seguente descrive come generare una richiesta di firma del certificato 
 >
 >![Scarica CSR](/help/assets/download-csr.gif)
 >
->Consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) per saperne di più.
+>Consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) per ulteriori informazioni.
 
 ### 2. Acquistare il certificato SSL
 
@@ -62,7 +62,7 @@ Dopo aver ottenuto la CSR, devi acquistare il certificato SSL da un’autorità 
 
 ### 3. Installare i certificati SSL
 
-Una volta ottenuto il certificato SSL, devi installarlo per i sottodomini che intendi proteggere.
+Dopo aver ottenuto il certificato SSL, devi installarlo per i sottodomini che intendi proteggere.
 
 Il video seguente spiega come installare i certificati SSL nel [!UICONTROL Control Panel].
 

@@ -1,6 +1,6 @@
 ---
 title: Aggiungere indirizzi IP all’elenco Consentiti
-description: Scopri come aggiungere un intervallo IP agli inserire nell'elenco Consentiti delle istanze Adobe Campaign e come rimuoverli dall’inserire nell'elenco Consentiti utilizzando il pannello di controllo.
+description: Scopri come aggiungere un intervallo IP ai Adobe Campaign di delle istanze di inserire nell'elenco Consentiti inserire nell'elenco Consentiti e come rimuoverli dal pannello di controllo Campaign utilizzando il pannello di controllo Campaign.
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -34,8 +34,8 @@ oppure
 
 ## Aggiungere un intervallo IP all’elenco Consentiti dell’istanza
 
-Scopri come aggiungere un intervallo IP agli inserire nell&#39;elenco Consentiti delle istanze Adobe Campaign e come rimuoverli dall’inserire nell&#39;elenco Consentiti utilizzando il pannello di controllo.
+Scopri come aggiungere un intervallo IP ai Adobe Campaign di delle istanze di inserire nell&#39;elenco Consentiti inserire nell&#39;elenco Consentiti e come rimuoverli dal pannello di controllo Campaign utilizzando il pannello di controllo Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
-Per ulteriori informazioni sull’IP, consulta l’elenco Consentiti [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it).
+Per ulteriori informazioni sull’IP, consulta l’articolo su come inserire nell’elenco Consentiti [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it).
