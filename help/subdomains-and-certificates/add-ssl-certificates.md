@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -36,13 +36,13 @@ Occorrono tre passaggi per aggiungere certificati SSL:
 
 ### 1. Generare le richieste di firma del certificato
 
-La richiesta di firma del certificato (CSR, Certificate Signing Request) è necessaria per l’acquisto di un certificato SSL. Deve essere generato per l’istanza e i sottodomini che intendi proteggere.
+La richiesta di firma del certificato (CSR) è necessaria per l’acquisto di un certificato SSL. Deve essere generata per l’istanza e i sottodomini che desideri proteggere.
 
 Il video seguente descrive come generare una richiesta di firma del certificato nel Pannello di controllo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
 
-*Generate Certificate Signing Requests (02:36 min)*
+*Generazione di una richiesta di firma del certificato (02:36 min)*
 
 >[!NOTE]
 >
@@ -54,20 +54,20 @@ Il video seguente descrive come generare una richiesta di firma del certificato 
 >
 >![Scarica CSR](/help/assets/download-csr.gif)
 >
->Consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) per ulteriori informazioni.
+>Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=it).
 
 ### 2. Acquistare il certificato SSL
 
-Dopo aver ottenuto la CSR, devi acquistare il certificato SSL da un’autorità di certificazione approvata dalla tua organizzazione.
+Dopo aver ottenuto la CSR, dovrai acquistare il certificato SSL da un’autorità di certificazione approvata dall’organizzazione.
 
 ### 3. Installare i certificati SSL
 
-Dopo aver ottenuto il certificato SSL, devi installarlo per i sottodomini che intendi proteggere.
+Una volta ottenuto il certificato SSL, dovrai installarlo per i sottodomini che desideri proteggere.
 
 Il video seguente spiega come installare i certificati SSL nel [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
 
-*Install SSL Certificates (01:25 min)*
+*Installare i certificati SSL (01:25 min)*
 
 
