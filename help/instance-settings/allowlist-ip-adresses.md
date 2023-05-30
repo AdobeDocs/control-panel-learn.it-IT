@@ -1,6 +1,6 @@
 ---
 title: Aggiungere indirizzi IP all’elenco Consentiti
-description: Scopri come aggiungere un intervallo IP ai Adobe Campaign di delle istanze di inserire nell'elenco Consentiti inserire nell'elenco Consentiti e come rimuoverli dal pannello di controllo Campaign utilizzando il pannello di controllo Campaign.
+description: Scopri come aggiungere un intervallo IP nell’elenco Consentiti delle istanze di Adobe Campaign e come rimuoverli da tale elenco tramite il Pannello di controllo.
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -11,15 +11,15 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Aggiungere indirizzi IP all’elenco Consentiti
 
-Il Pannello di controllo consente di impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza Adobe Campaign da più indirizzi IP. Pertanto, è necessario inserire nell&#39;elenco Consentiti un indirizzo IP:
+Il Pannello di controllo consente di impostare nuove connessioni alle istanze aggiungendo intervalli di indirizzi IP all’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza di Adobe Campaign da più indirizzi IP. Pertanto, è necessario aggiungere un indirizzo IP all’elenco Consentiti:
 
 * Per consentire l’accesso all’istanza [!DNL Campaign] da questo indirizzo IP
 * Per collegare un’API al Centro messaggi o a un’istanza di marketing
@@ -34,8 +34,8 @@ oppure
 
 ## Aggiungere un intervallo IP all’elenco Consentiti dell’istanza
 
-Scopri come aggiungere un intervallo IP ai Adobe Campaign di delle istanze di inserire nell&#39;elenco Consentiti inserire nell&#39;elenco Consentiti e come rimuoverli dal pannello di controllo Campaign utilizzando il pannello di controllo Campaign.
+Scopri come aggiungere un intervallo IP nell’elenco Consentiti delle istanze di Adobe Campaign e come rimuoverli da tale elenco tramite il Pannello di controllo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
-Per ulteriori informazioni sull’IP, consulta l’articolo su come inserire nell’elenco Consentiti [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it).
+Per ulteriori informazioni sull’aggiunta degli indirizzi IP all’elenco Consentiti, consulta la [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it).
