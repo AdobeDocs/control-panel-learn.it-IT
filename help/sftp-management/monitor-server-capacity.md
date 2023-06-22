@@ -3,7 +3,7 @@ title: Monitorare la capacità del server
 description: Scopri come monitorare e gestire l’archiviazione SFTP per le singole istanze e aggiungere indirizzi IP all’elenco Consentiti.
 feature: Control Panel
 audience: administrator
-kt: 3266
+jira: KT-3266
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Per accedere alla gestione dei sottodomini nel [!UICONTROL Control Panel], vai a
 
 * [Home di Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > scheda **[!UICONTROL Control Panel]** > scheda **[!UICONTROL Subdomains & Certificates]**
 
-   o
+  o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Monitorare la capacità del server, [!UICONTROL allowlist] gli indirizzi IP e aggiungere chiavi SSH

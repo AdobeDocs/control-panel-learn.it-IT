@@ -2,7 +2,7 @@
 title: Utilizzare una chiave GPG per crittografare i dati
 description: Scopri come esportare i dati utilizzando una chiave GPG installata sul Pannello di controllo.
 feature: Control Panel
-kt: 5793
+jira: KT-5793
 thumbnail: 36399.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8b2ff6b2-6836-4ab1-953b-2a9c81ec576d
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 91%
