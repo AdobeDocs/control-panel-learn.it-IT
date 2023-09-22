@@ -10,17 +10,17 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 98%
 
 ---
 
 # Gestione di [!UICONTROL Google TXT record]
 
-Al fine di garantire elevate percentuali di posta in arrivo e basse percentuali di posta indesiderata, alcuni servizi, come Google, richiedono l’aggiunta di un record TXT alle impostazioni del dominio per verificare che tu sia il proprietario del dominio. I record TXT sono un tipo di record DNS utilizzati per fornire informazioni testuali su un dominio, leggibili da origini esterne.
+Al fine di garantire tassi di posta in arrivo elevati e tassi di posta indesiderata ridotti, alcuni servizi, come Google, richiedono l’aggiunta di un record TXT alle impostazioni del dominio per verificare che tu sia il proprietario del dominio. I record TXT sono un tipo di record DNS utilizzati per fornire informazioni testuali su un dominio, leggibili da origini esterne.
 
 Scopri come aggiungere i record [!UICONTROL Google TXT] per la verifica del sito a tutti i sottodomini utilizzati per inviare e-mail a indirizzi [!DNL GMAIL] tramite il [!UICONTROL Campaign Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}

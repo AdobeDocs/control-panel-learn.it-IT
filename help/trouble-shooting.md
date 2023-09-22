@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 98%
 
 ---
 
@@ -43,11 +43,11 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 
 ### Video utili
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 *Verificare Org ID IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 *Come aggiungere un amministratore al profilo di prodotto in modo che possa utilizzare il [!UICONTROL Control panel] (01:03 min)*
 
