@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 98%
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
@@ -28,8 +28,8 @@ Il Pannello di controllo consente di impostare nuove connessioni alle istanze ag
 
 Per accedere alla gestione dei sottodomini nel Pannello di controllo, vai a:
 
-* [Home di Experience Cloud](https://experience.adobe.com/#/home) > Selezione soluzioni: **[!DNL Campaign]** > scheda **[!UICONTROL Control Panel]** > scheda **Impostazioni delle istanze**
-oppure
+* [Home di Experience Cloud](https://experience.adobe.com/#/home) > Selettore soluzioni: **[!DNL Campaign]** > scheda **[!UICONTROL Pannello di controllo]** > scheda **Impostazioni istanze**
+Oppure
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## Aggiungere un intervallo IP all’elenco Consentiti dell’istanza

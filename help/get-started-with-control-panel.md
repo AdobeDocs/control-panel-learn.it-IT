@@ -13,28 +13,28 @@ recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 98%
+source-wordcount: '222'
+ht-degree: 87%
 
 ---
 
-# Introduzione a [!UICONTROL Control Panel] {#control-panel}
+# Introduzione a [!UICONTROL Pannello di controllo] {#control-panel}
 
 >[!CAUTION]
 > Per Campaign v7, si applicano restrizioni di distribuzione. [Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=it#v7-restrictions)
 
-[!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come gestire l’archiviazione [!DNL SFTP] per le singole istanze, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
+[!UICONTROL Pannello di controllo Campaign] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire [!DNL SFTP] archiviazione per istanza, gestione [!DNL GPG] chiavi, oppure [!UICONTROL sottodomini] e [!UICONTROL certificati].
 
-Questo articolo spiega come accedere al Pannello di controllo e quali sono i suoi prerequisiti.
+Questo articolo spiega come accedere al Pannello di controllo e quali sono i prerequisiti per lavorarci.
 
-## Accesso al [!UICONTROL Control Panel]
+## Accesso al [!UICONTROL Pannello di controllo]
 
 Per accedere al Pannello di controllo, vai alla Home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+* **[!UICONTROL Home di Experience Cloud]** > **[!UICONTROL Accesso rapido]**
 
   o
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > scheda **[!UICONTROL Control Panel]**
+* **[!UICONTROL Home di Experience Cloud]** > [!UICONTROL Selettore risorse]: **Campaign** > **[!UICONTROL Panello di controllo Campaign] scheda**
 
   o
 
@@ -52,7 +52,7 @@ Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 ### Diritti di amministratore
 
-I diritti di amministratore sono necessari per accedere al [!UICONTROL Control Panel].
+I diritti di amministratore sono necessari per accedere al [!UICONTROL Panello di controllo Campaign].
 Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}

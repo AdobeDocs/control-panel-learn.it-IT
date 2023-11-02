@@ -13,8 +13,8 @@ level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 97%
+source-wordcount: '103'
+ht-degree: 100%
 
 ---
 
@@ -22,16 +22,16 @@ ht-degree: 97%
 
 Il Pannello di controllo consente di monitorare e gestire l’archiviazione SFTP per le singole istanze.
 
-## Accesso alla gestione dei sottodomini del [!UICONTROL Control Panel]
+## Accesso alla gestione dei sottodomini del [!UICONTROL Pannello di controllo]
 
-Per accedere alla gestione dei sottodomini nel [!UICONTROL Control Panel], vai a:
+Per accedere alla gestione dei sottodomini nel [!UICONTROL Pannello di controllo], vai a:
 
-* [Home di Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > scheda **[!UICONTROL Control Panel]** > scheda **[!UICONTROL Subdomains & Certificates]**
+* [Home di Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Selettore soluzioni:]: [!UICONTROL Campaign] > scheda **[!UICONTROL Pannello di controllo]** > scheda **[!UICONTROL Sottodomini e certificati]**
 
   o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Monitorare la capacità del server, [!UICONTROL allowlist] gli indirizzi IP e aggiungere chiavi SSH
+## Monitorare la capacità del server, gli indirizzi IP dell’[!UICONTROL elenco Consentiti] e aggiungere le chiavi SSH
 
 Scopri come monitorare la capacità di archiviazione dei server SFTP.
 
