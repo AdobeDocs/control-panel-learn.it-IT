@@ -10,7 +10,7 @@ level: Experienced
 auto-video-transcripts: true
 source-git-commit: d2b06b5280e0bd24e3730f70857831836efca03b
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 100%
    + [Gestione dei record TXT di Google](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Impostazioni delle istanze {#instance-settings}
    + [Aggiungere indirizzi IP all’elenco Consentiti](/help/instance-settings/allowlist-ip-adresses.md)
-   + [Aggiungi autorizzazioni URL](/help/instance-settings/add-url-permissions.md)
+   + [Aggiungere autorizzazioni URL](/help/instance-settings/add-url-permissions.md)
    + Gestione delle chiavi GPG {#gpg-key-management}
       + [Gestione delle chiavi GPG: panoramica](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
