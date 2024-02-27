@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
+source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,23 +20,6 @@ ht-degree: 100%
 # Pannello di controllo - Panoramica
 
 Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
-
-<div id="whats-new-section">
-
-## Novità
-
-* **[Pannello di controllo per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)**
-  *Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.*
-
-* **[Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)**
-  *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
-
-* **[Monitorare velocità effettive e latenza](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-  *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
-
-Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=it) per ulteriori informazioni sulle ultime versioni dei prodotti.
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
