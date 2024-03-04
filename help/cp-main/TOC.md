@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorial di Adobe Campaign Pannello di controllo Campaign
+user-guide-title: Tutorial sul Pannello di controllo Adobe Campaign
 user-guide-description: Scopri come monitorare le risorse chiave delle istanze di Adobe Campaign ed eseguire attività di amministrazione nel Pannello di controllo.
 breadcrumb-title: Tutorial del Pannello di controllo
 index: true
@@ -8,17 +8,17 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
+source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
 
 # Tutorial di Adobe Campaign Pannello di controllo Campaign {#tutorials}
 
-+ [Tutorial di Pannello di controllo Campaign](/help/control-panel-overview.md)
++ [Tutorial del Pannello di controllo](/help/control-panel-overview.md)
 + [Introduzione al Pannello di controllo](/help/get-started-with-control-panel.md)
 + [Pannello di controllo per modelli di hosting ibridi](/help/control-panel-for-hybrid-hosting-models.md)
 + Gestione SFTP {#sftp-management}
