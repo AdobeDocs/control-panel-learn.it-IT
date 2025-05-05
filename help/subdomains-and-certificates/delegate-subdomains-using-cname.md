@@ -23,4 +23,4 @@ Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con Adob
 
 Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450132?learn=on&captions=ita){transcript=true}

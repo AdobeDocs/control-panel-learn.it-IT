@@ -24,4 +24,4 @@ Per connettersi a un server tramite un’applicazione client o un’API, è nece
 
 Scopri come aggiungere un intervallo di indirizzi IP all’elenco Consentiti.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444644?learn=on&captions=ita){transcript=true}

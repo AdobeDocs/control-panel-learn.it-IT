@@ -23,4 +23,4 @@ Al fine di garantire tassi di posta in arrivo elevati e tassi di posta indesider
 
 Scopri come aggiungere record di verifica sito [!UICONTROL TXT di Google] a tutti i sottodomini utilizzati per inviare e-mail a indirizzi [!DNL GMAIL] tramite il [!UICONTROL Pannello di controllo di Campaign].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36882?learn=on&captions=ita){transcript=true}

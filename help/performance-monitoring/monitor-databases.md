@@ -24,6 +24,6 @@ Tutte le risorse, i flussi di lavoro e i dati dell’istanza Campaign sono memor
 
 Scopri come monitorare l’utilizzo dei database delle istanze con [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448848?learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni sul monitoraggio del database, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=it).

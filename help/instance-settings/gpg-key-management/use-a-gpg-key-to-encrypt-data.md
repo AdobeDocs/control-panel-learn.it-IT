@@ -23,8 +23,8 @@ Scopri come esportare i dati utilizzando una chiave GPG installata nel Pannello 
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41163?learn=on&captions=ita){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41162?learn=on&captions=ita){transcript=true}

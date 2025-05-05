@@ -24,8 +24,8 @@ Scopri come creare una chiave pubblica e importarla e installarla in un’istanz
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41165?learn=on&captions=ita){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41166?learn=on&captions=ita){transcript=true}

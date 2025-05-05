@@ -48,14 +48,14 @@ Prima di iniziare, completa i seguenti prerequisiti:
 
 Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328532?learn=on&captions=ita){transcript=true}
 
 ### Diritti di amministratore
 
 I diritti di amministratore sono necessari per accedere al [!UICONTROL Panello di controllo Campaign].
 Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328147?learn=on&captions=ita){transcript=true}
 
 [Ulteriori informazioni](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel) sulla gestione delle autorizzazioni.
 

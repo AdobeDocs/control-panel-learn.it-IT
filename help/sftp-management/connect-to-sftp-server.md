@@ -38,4 +38,4 @@ La connessione ai server SFTP richiede:
 
 Questo video spiega come connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328961?learn=on&captions=ita){transcript=true}

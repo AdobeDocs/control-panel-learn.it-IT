@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.
 
->[!VIDEO](https://video.tv.adobe.com/v/344309/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411087/?learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=it) e le [best practice per i flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=it).

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Il Pannello di controllo consente di crittografare i dati provenienti dall’istanza Adobe Campaign. Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza [!DNL Campaign] per la crittografia dei dati in uscita.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327885?learn=on&captions=ita){transcript=true}

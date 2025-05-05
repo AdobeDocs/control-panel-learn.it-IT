@@ -40,7 +40,7 @@ La richiesta di firma del certificato (CSR) è necessaria per l’acquisto di un
 
 Il video seguente descrive come generare una richiesta di firma del certificato nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36170?learn=on&captions=ita){transcript=true}
 
 *Generazione di una richiesta di firma del certificato (02:36 min)*
 
@@ -67,7 +67,7 @@ Una volta ottenuto il certificato SSL, dovrai installarlo per i sottodomini che 
 
 Il video seguente spiega come installare i certificati SSL nel [!UICONTROL Pannello di controllo].
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36171?learn=on&captions=ita){transcript=true}
 
 *Installare i certificati SSL (01:25 min)*
 

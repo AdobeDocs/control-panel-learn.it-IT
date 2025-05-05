@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali della tua istanza di Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444745/?learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 
