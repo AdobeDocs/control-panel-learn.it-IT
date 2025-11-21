@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -34,11 +34,11 @@ ht-degree: 100%
 + Impostazioni delle istanze {#instance-settings}
    + [Aggiungere indirizzi IP all’elenco Consentiti](/help/instance-settings/allowlist-ip-adresses.md)
    + [Aggiungere autorizzazioni URL](/help/instance-settings/add-url-permissions.md)
-   + Gestione delle chiavi GPG {#gpg-key-management}
+   + Gestione chiave GPG {#gpg-key-management}
       + [Gestione delle chiavi GPG: panoramica](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [Utilizzare una chiave GPG per crittografare i dati](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
-      + [Decrittare i dati](/help/instance-settings/gpg-key-management/decrypt-data.md)
+      + [Decrittografare i dati](/help/instance-settings/gpg-key-management/decrypt-data.md)
 + Monitoraggio delle prestazioni {#performance-monitoring}
    + [Monitorare i database](/help/performance-monitoring/monitor-databases.md)
    + [Monitorare i flussi di lavoro](/help/performance-monitoring/monitor-workflows.md)
