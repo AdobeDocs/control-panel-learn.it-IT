@@ -29,4 +29,4 @@ Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazion
 * [Documentazione del Pannello di controllo Campaign sul monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=it#)
 * [Dashboard di consegna preconfigurate](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=it)
 * [Rapporti preconfigurati sulla messaggistica transazionale per gli accessi (solo Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=it)
-* [Best practice per la consegna](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [Best practice per la consegna](https://experienceleague.adobe.com/it/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
