@@ -35,4 +35,4 @@ Per accedere alla gestione dei sottodomini nel [!UICONTROL Pannello di controllo
 
 Scopri come monitorare la capacità di archiviazione dei server SFTP.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329493?captions=ita&learn=on){transcript=true}
