@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '269'
+workflow-type: ht
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -34,15 +34,15 @@ Per accedere alla gestione dei sottodomini nel Pannello di controllo, vai a:
 
 Occorrono tre passaggi per aggiungere certificati SSL:
 
-### 1. Generare le richieste di firma del certificato
+### &#x200B;1. Generare le richieste di firma del certificato
 
 La richiesta di firma del certificato (CSR) è necessaria per l’acquisto di un certificato SSL. Deve essere generata per l’istanza e i sottodomini che desideri proteggere.
 
 Il video seguente descrive come generare una richiesta di firma del certificato nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/36170?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
-*Generazione di una richiesta di firma del certificato (02:36 min)*
+*Generare le richieste di firma del certificato (02:36 min)*
 
 >[!NOTE]
 >
@@ -50,24 +50,24 @@ Il video seguente descrive come generare una richiesta di firma del certificato 
 >
 >* Quando generi una CSR, ora puoi selezionare uno dei sottodomini inclusi come Nome comune.
 >* Ora puoi copiare il riepilogo CSR prima di generare la CSR.
->* Una volta generata una CSR, puoi scaricarla nuovamente dai registri dei lavori. Questa funzionalità non si applica ai certificati generati prima di questa versione.
+>* Una volta generata una CSR, puoi scaricarla nuovamente dai registri dei processi. Questa funzionalità non si applica ai certificati generati prima di questa versione.
 >
 >![Scarica CSR](/help/assets/download-csr.gif)
 >
 >Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=it).
 >
 
-### 2. Acquistare il certificato SSL
+### &#x200B;2. Acquistare il certificato SSL
 
-Dopo aver ottenuto la CSR, dovrai acquistare il certificato SSL da un’autorità di certificazione approvata dall’organizzazione.
+Dopo aver ottenuto il CSR, sarà necessario acquistare il certificato SSL da un’autorità di certificazione approvata dall’organizzazione.
 
-### 3. Installare i certificati SSL
+### &#x200B;3. Installare i certificati SSL
 
 Una volta ottenuto il certificato SSL, dovrai installarlo per i sottodomini che desideri proteggere.
 
 Il video seguente spiega come installare i certificati SSL nel [!UICONTROL Pannello di controllo].
 
->[!VIDEO](https://video.tv.adobe.com/v/36171?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *Installare i certificati SSL (01:25 min)*
 

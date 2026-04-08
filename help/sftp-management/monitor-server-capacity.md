@@ -12,8 +12,8 @@ role: Admin
 level: Experienced
 exl-id: c4fa20ed-a836-4c69-b3a8-749dc43e6b09
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '95'
+workflow-type: ht
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -35,4 +35,4 @@ Per accedere alla gestione dei sottodomini nel [!UICONTROL Pannello di controllo
 
 Scopri come monitorare la capacità di archiviazione dei server SFTP.
 
->[!VIDEO](https://video.tv.adobe.com/v/329493?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}

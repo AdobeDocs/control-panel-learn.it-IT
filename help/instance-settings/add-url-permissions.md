@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '45'
+workflow-type: ht
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Scopri come stabilire una connessione dall’istanza di [!DNL Adobe Campaign] a un URL esterno.
 
->[!VIDEO](https://video.tv.adobe.com/v/327849?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=it).

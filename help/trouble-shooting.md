@@ -10,8 +10,8 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '317'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -43,18 +43,18 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 
 ### Video utili
 
->[!VIDEO](https://video.tv.adobe.com/v/328532?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*Verificare Org ID IMS (00:26 min)*
+*Verificare l’ID organizzazione IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/328147?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*Come aggiungere un amministratore al profilo di prodotto in modo che possa utilizzare il [!UICONTROL Pannello di controllo] (01:03 min)*
+*Come aggiungere un amministratore agli amministratori di profilo di prodotto per poter utilizzare [!UICONTROL Pannello di controllo] (01:03 min)*
 
 ### Documentazione utile
 
 * [Scoprire il Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
-* [Gestione delle autorizzazioni di accesso al [!UICONTROL Pannello di controllo]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
+* [Gestione delle autorizzazioni per il [!UICONTROL Pannello di controllo]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
 
 ## Stabilimento di una connessione al server SFTP (client o API)
 

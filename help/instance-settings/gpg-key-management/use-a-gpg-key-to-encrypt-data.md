@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 8b2ff6b2-6836-4ab1-953b-2a9c81ec576d
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '51'
+workflow-type: ht
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,8 @@ Scopri come esportare i dati utilizzando una chiave GPG installata nel Pannello 
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/41163?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
 
 ## Adobe Campaign v7/v8
 
->[!VIDEO](https://video.tv.adobe.com/v/41162?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}

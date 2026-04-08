@@ -12,8 +12,8 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: b84945a1afa1068bdb58947cd14f75d0ec29a0b1
-workflow-type: tm+mt
-source-wordcount: '219'
+workflow-type: ht
+source-wordcount: '229'
 ht-degree: 100%
 
 ---
@@ -71,7 +71,7 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
     </a>
     </div>
     <p>
-    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo. </em>
+    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi archiviate nel Pannello di controllo. </em>
     <p>
   </td>
 </tr>
@@ -81,4 +81,4 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
 
 ## Risorse aggiuntive
 
-* [Centro assistenza per il Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
+* [Centro assistenza per Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
