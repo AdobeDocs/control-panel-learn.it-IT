@@ -1,6 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Campaign
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
 product: Campaign
 landing-page-name: Campaign
 landing-page-breadcrumb-title: Campaign
@@ -8,16 +10,16 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/control-panel-learn.it-IT
 index: true
-source-git-commit: 87443cf600da77eb3b39a2a28806bf71d091b808
+source-git-commit: 11a9befaaff43aab1f82be47c99da8302d1272e5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: 72
+ht-degree: 91%
 
 ---
 
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
+Il file metadata.md include metadati a livello di archivio che vengono passati ai file TOC.md della guida utente nell’archivio. Se desideri modificare il contenuto del file metadata.md per qualsiasi Guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, vedere [metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=en).
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, consulta [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it).
