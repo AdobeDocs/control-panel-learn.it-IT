@@ -9,10 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '353'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 353
+ht-degree: 70%
 
 ---
 
@@ -31,15 +36,15 @@ L’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amminist
 Gli utenti non visualizzano i collegamenti finché non vengono aggiunti come utenti al profilo di prodotto _Campaign-xxx-Administrators/Admin_.
 
 **Come procedere:**
-L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
+L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
 
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Pannello di controllo]
 
 **Causa:**
-Probabilmente l’utente deve essere aggiunto come *utente* al Profilo di prodotto _Campaign-xxx-Administrators/Admin_ per l’istanza mancante
+Probabilmente l&#39;utente deve essere aggiunto come *utente* al profilo di prodotto _Campaign-xxx-Administrators/Admin_ per l&#39;istanza mancante
 
 **Come procedere:**
-L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come “utente”.
+L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come “utente”.
 
 ### Video utili
 
