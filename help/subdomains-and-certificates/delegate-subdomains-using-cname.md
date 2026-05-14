@@ -10,9 +10,12 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: f7d5ff24-6181-4212-9c0a-b146a621cc0f
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '54'
+TQID: https://experienceleague.adobe.com/l2Ws6P0zFU0s-OyYAoPEvS7L0zrohOiq60izPq2grBQ
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 54
 ht-degree: 100%
 
 ---
@@ -23,4 +26,4 @@ Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con Adob
 
 Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450132?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}

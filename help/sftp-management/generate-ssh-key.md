@@ -10,9 +10,12 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+TQID: https://experienceleague.adobe.com/Yk-bGFLmfJg-ol67u9i3Ff-kk-nllWPTvbKrV2n0ayw
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 122
 ht-degree: 100%
 
 ---
@@ -34,4 +37,4 @@ Per accedere alla gestione SFTP nel Pannello di controllo, vai a:
 
 Scopri come generare una chiave SSH utilizzando un terminale e come memorizzare la versione pubblica della chiave nel Pannello di controllo.
 
->[!VIDEO](https://video.tv.adobe.com/v/329370?learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
