@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411075?captions=ita&learn=on){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=it).

@@ -48,11 +48,11 @@ L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto _Campai
 
 ### Video utili
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328532?captions=ita&learn=on){transcript=true}
 
 *Verificare l’ID organizzazione IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328147?captions=ita&learn=on){transcript=true}
 
 *Come aggiungere un amministratore agli amministratori di profilo di prodotto per poter utilizzare [!UICONTROL Pannello di controllo] (01:03 min)*
 
