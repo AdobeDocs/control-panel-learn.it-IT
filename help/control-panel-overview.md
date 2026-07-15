@@ -17,9 +17,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,9 +46,7 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delega dei sottodomini ad Adobe Campaign (video)</strong>
-    </a>
-    </div>
+    <strong>Delega dei sottodomini ad Adobe Campaign (video)</strong></div>
     <p>
     <em>Scopri come delegare completamente un sottodominio ad Adobe Campaign.</em>
     <p>
@@ -58,25 +56,22 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
       <img alt="Gestione dei record TXT di Google (video)" src="./assets/32369.jpg" />
     </a>
     <div>
-    <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Gestione record TXT di Google</strong>
-    </a>
-    </div>
+    
+<a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Gestione dei record TXT di Google (video)</strong></div>
     <p>
     <em> Scopri come aggiungere record TXT di Google per la verifica del sito a tutti i sottodomini utilizzati per inviare e-mail agli indirizzi GMAIL tramite il Pannello di controllo Campaign.</em>
     <p>
   </td>
   <td>
     <a href="./sftp-management/connect-to-sftp-server.md">
-      <img alt="Connettersi a un server SFTP" src="./assets/27263.jpg" />
+      <img alt="Connessione a un server SFTP" src="./assets/27263.jpg" />
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connessione a un server SFTP</strong>
-    </a>
-    </div>
+    <strong>Connessione a un server SFTP</strong></div>
     <p>
-    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi archiviate nel Pannello di controllo. </em>
+    <em>Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo. </em>
     <p>
   </td>
 </tr>
